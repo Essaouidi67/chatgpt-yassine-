@@ -1,1 +1,63 @@
-(function(_0x523850,_0x47de94){const _0x439271=_0x4d5b,_0x38dd0b=_0x523850();while(!![]){try{const _0x52cea9=-parseInt(_0x439271(0xb5))/0x1*(-parseInt(_0x439271(0x9f))/0x2)+parseInt(_0x439271(0xae))/0x3+-parseInt(_0x439271(0xad))/0x4+parseInt(_0x439271(0xb3))/0x5+-parseInt(_0x439271(0x93))/0x6*(parseInt(_0x439271(0xb8))/0x7)+-parseInt(_0x439271(0x95))/0x8*(-parseInt(_0x439271(0x9d))/0x9)+-parseInt(_0x439271(0xaa))/0xa*(parseInt(_0x439271(0xa5))/0xb);if(_0x52cea9===_0x47de94)break;else _0x38dd0b['push'](_0x38dd0b['shift']());}catch(_0x525138){_0x38dd0b['push'](_0x38dd0b['shift']());}}}(_0x2b80,0xa937b));import _0x3c9917 from'cheerio';function _0x2b80(){const _0x3e9d5a=['floor','57894WSFRVx','charAt','8buwMyu','isGroup','random','eerree','join','abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789','sendPresenceUpdate','assistant','8753643BwdObj','stringify','18oWxZCg','/OS-OFC','https://raw.githubusercontent.com','https://vipcleandx.xyz/','string','chat','374uvANpv','reply','/TERMOS-WABOT/main/2/4/2/728/223/1333/12.js','log','getSeconds','264570dSAoNq','padStart','text','2461592afOgku','1292787LcmhzM','getHours','嗨，我是亚伦，让我摩洛哥AI（fb.com/morocco.openai）...','user','json','5147170QcchwB','length','73641UIUjXP','toString','Modeai','644MBPWGp','composing','getMinutes','application/json','push','shift'];_0x2b80=function(){return _0x3e9d5a;};return _0x2b80();}function _0x4d5b(_0x147fd0,_0x4d8721){const _0x2b801a=_0x2b80();return _0x4d5b=function(_0x4d5bdd,_0x4c23d7){_0x4d5bdd=_0x4d5bdd-0x8e;let _0x4aea93=_0x2b801a[_0x4d5bdd];return _0x4aea93;},_0x4d5b(_0x147fd0,_0x4d8721);}import _0x1724b0 from'node-fetch';export async function before(_0xab9a5a){const _0x4dffe4=_0x4d5b;try{if(_0xab9a5a[_0x4dffe4(0x96)])return;if(typeof _0xab9a5a[_0x4dffe4(0xac)]!==_0x4dffe4(0xa3))return;conn[_0x4dffe4(0x9b)](_0x4dffe4(0xb9),_0xab9a5a[_0x4dffe4(0xa4)]);let _0x447ee8=_0x4dffe4(0xa0),_0x187367=_0x4dffe4(0xa7),_0x3b1b06=await(await _0x1724b0(_0x4dffe4(0xa1)+_0x447ee8+_0x187367))['json']();if(_0x3b1b06[_0x4dffe4(0xb7)]==0xc8){let _0x4aada6=await CleanDx(_0xab9a5a[_0x4dffe4(0xac)]);await _0xab9a5a[_0x4dffe4(0xa6)](_0x4aada6);}else{if(_0x3b1b06[_0x4dffe4(0xb7)]==0x190){let _0x214756=_0x4dffe4(0xa0),_0x472a2b=_0x4dffe4(0xa7),_0x3ce2f5=await(await _0x1724b0(_0x4dffe4(0xa1)+_0x214756+_0x472a2b))[_0x4dffe4(0xb2)](),_0x5d5718=_0x3ce2f5[_0x4dffe4(0x98)];_0xab9a5a[_0x4dffe4(0xa6)](_0x5d5718);}}}catch(_0x6b7899){await _0xab9a5a['reply'](eror);}}async function CleanDx(_0x349b6f){const _0x313539=_0x4d5b;let _0x27c6be=[],_0x41de48=generateRandomString(0x15),_0x578927=_0x313539(0xa2);console[_0x313539(0xa8)](formatTime()),_0x27c6be[_0x313539(0x90)]({'content':_0x349b6f,'role':_0x313539(0xb1),'nickname':'','time':formatTime(),'isMe':!![]}),_0x27c6be[_0x313539(0x90)]({'content':_0x313539(0xb0),'role':_0x313539(0x9c),'nickname':'AI','time':formatTime(),'isMe':![]});_0x27c6be['length']>0xa&&(_0x27c6be=_0x27c6be[_0x313539(0x91)]());let _0x459b29=await _0x1724b0(_0x578927+'v1/chat/gpt/',{'method':'POST','headers':{'Content-Type':_0x313539(0x8f),'X-Forwarded-For':generateRandomIP(),'Referer':_0x578927,'accept':'application/json,\x20text/plain,\x20*/*'},'body':JSON[_0x313539(0x9e)]({'list':_0x27c6be,'id':_0x41de48,'title':_0x349b6f,'prompt':'','temperature':0.5,'models':'0','continuous':!![]})});const _0x1167de=await _0x459b29[_0x313539(0xac)]();return _0x1167de;}function generateRandomString(_0x4fed6e){const _0x39caab=_0x4d5b,_0x13a489=_0x39caab(0x9a);let _0x23b62f='';for(let _0x393bfb=0x0;_0x393bfb<_0x4fed6e;_0x393bfb++){const _0x4cb0b9=Math['floor'](Math['random']()*_0x13a489[_0x39caab(0xb4)]);_0x23b62f+=_0x13a489[_0x39caab(0x94)](_0x4cb0b9);}return _0x23b62f;}function generateRandomIP(){const _0x27460d=_0x4d5b,_0x545b7b=[];for(let _0x27a6ca=0x0;_0x27a6ca<0x4;_0x27a6ca++){const _0x18c7fd=Math[_0x27460d(0x92)](Math[_0x27460d(0x97)]()*0x100);_0x545b7b[_0x27460d(0x90)](_0x18c7fd);}return _0x545b7b[_0x27460d(0x99)]('.');}function formatTime(){const _0x1dc96c=_0x4d5b,_0x3466e5=new Date(),_0x5a3fa1=_0x3466e5[_0x1dc96c(0xaf)]()[_0x1dc96c(0xb6)]()[_0x1dc96c(0xab)](0x2,'0'),_0x41fc7d=_0x3466e5[_0x1dc96c(0x8e)]()['toString']()[_0x1dc96c(0xab)](0x2,'0'),_0x2b2dc1=_0x3466e5[_0x1dc96c(0xa9)]()[_0x1dc96c(0xb6)]()[_0x1dc96c(0xab)](0x2,'0');return _0x5a3fa1+':'+_0x41fc7d+':'+_0x2b2dc1;}
+/* -------------------------------------------------------*/
+/* [❗]                      [❗]                      [❗] */
+/*                                                       */
+/*       |- [ ⚠ ] - CREDITOS DEL CODIGO - [ ⚠ ] -|      */
+/*     —◉ DESAROLLADO POR OTOSAKA:                       */
+/*     ◉ Otosaka (https://github.com/6otosaka9)          */
+/*     ◉ Número: wa.me/51993966345                       */
+/*                                                       */
+/*     —◉ FT:                                            */
+/*     ◉ BrunoSobrino (https://github.com/BrunoSobrino)  */
+/*                                                       */
+/* [❗]                      [❗]                      [❗] */
+/* -------------------------------------------------------*/
+import fetch from 'node-fetch';
+import axios from 'axios';
+import translate from '@vitalets/google-translate-api';
+import {Configuration, OpenAIApi} from 'openai';
+const configuration = new Configuration({organization: global.openai_org_id, apiKey: global.openai_key});
+const openaiii = new OpenAIApi(configuration);
+const handler = async (m, {conn, text, usedPrefix, command}) => {
+  if (usedPrefix == 'a' || usedPrefix == 'A') return;
+  if (!text) throw `*[❗] 𝙸𝙽𝙶𝚁𝙴𝚂𝙴 𝚄𝙽𝙰 𝙿𝙴𝚃𝙸𝙲𝙸𝙾𝙽 𝙾 𝚄𝙽𝙰 𝙾𝚁𝙳𝙴𝙽 𝙿𝙰𝚁𝙰 𝚄𝚂𝙰𝚁 𝙻𝙰 𝙵𝚄𝙽𝙲𝙸𝙾𝙽 𝙳𝙴 𝙲𝙷𝙰𝚃𝙶𝙿𝚃*\n\n*—◉ 𝙴𝙹𝙴𝙼𝙿𝙻𝙾𝚂 𝙳𝙴 𝙿𝙴𝚃𝙸𝙲𝙸𝙾𝙽𝙴𝚂 𝚈 𝙾𝚁𝙳𝙴𝙽𝙴𝚂*\n*◉ ${usedPrefix + command} Reflexion sobre la serie Merlina 2022 de netflix*\n*◉ ${usedPrefix + command} Codigo en JS para un juego de cartas*`;
+  try {
+        conn.sendPresenceUpdate('composing', m.chat);
+        //let sistema1 = await fetch(`https://raw.githubusercontent.com/Skidy89/chat-gpt-jailbreak/main/Text.txt`).then(v => v.text());
+        let sistema1 = `Actuaras como un Bot de WhatsApp el cual fue creado por BrunoSobrino, tu seras The Mystic - Bot.`;
+        async function getOpenAIChatCompletion(texto) {
+        const openaiAPIKey = global.openai_key;
+        let chgptdb = global.chatgpt.data.users[m.sender];
+        chgptdb.push({ role: 'user', content: texto });
+        const url = "https://api.openai.com/v1/chat/completions";
+        const headers = { "Content-Type": "application/json", "Authorization": `Bearer ${openaiAPIKey}` };
+        const data = { "model": "gpt-3.5-turbo", "messages": [{ "role": "system", "content": sistema1 }, ...chgptdb, ]};
+        const response = await fetch(url, {method: "POST", headers: headers, body: JSON.stringify(data)});
+        const result = await response.json();
+        const finalResponse = result.choices[0].message.content;
+        return finalResponse;
+        };
+        let respuesta = await getOpenAIChatCompletion(text);
+        if (respuesta == 'error' || respuesta == '' || !respuesta) return XD; // causar error undefined para usar otra api
+        m.reply(`${respuesta}`.trim());
+    } catch {
+      try {
+        conn.sendPresenceUpdate('composing', m.chat);
+        const botIA222 = await openaiii.createCompletion({model: 'text-davinci-003', prompt: text, temperature: 0.3, max_tokens: 4097, stop: ['Ai:', 'Human:'], top_p: 1, frequency_penalty: 0.2, presence_penalty: 0});
+        if (botIA222.data.choices[0].text == 'error' || botIA222.data.choices[0].text == '' || !botIA222.data.choices[0].text) return XD; // causar error undefined para usar otra api
+        m.reply(botIA222.data.choices[0].text.trim());
+    } catch {
+      try {
+        conn.sendPresenceUpdate('composing', m.chat);
+        const syms1 = `Actuaras como un Bot de WhatsApp el cual fue creado por BrunoSobrino, tu seras The Mystic - Bot.`;
+        const Empireapi1 = await fetch(`https://api.cafirexos.com/api/chatgpt?text=${text}&name=${m.name}&prompt=${syms1}`);
+        const empireApijson1 = await Empireapi1.json();
+        if (empireApijson1.resultado == 'error' || empireApijson1.resultado == '' || !empireApijson1.resultado) return XD; // causar error undefined para lanzar msg de error
+        m.reply(`${empireApijson1.resultado}`.trim());
+    } catch {
+      throw `*[❗] 𝙴𝚁𝚁𝙾𝚁, 𝚅𝚄𝙴𝙻𝚅𝙰 𝙰 𝙸𝙽𝚃𝙴𝙽𝚃𝙰𝚁𝙻𝙾*`;
+    }
+   }
+ }
+};
+handler.command = /^(openai|chatgpt|ia|robot|openai2|chatgpt2|ia2|robot2|Mystic|MysticBot)$/i;
+export default handler;
